@@ -1,7 +1,7 @@
 class Account{
     min_Bal=500;
     open_Account(){
-        console.log("Account Opened Successfully")
+        console.log("Account Opened Successfully");
     }
     deposit_Amount(amount){
         console.log(amount,"-Deposited")
